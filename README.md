@@ -39,7 +39,7 @@ Backend (API de Django):
 http://localhost:8000
 
 superusuario:
-admin@a.com usuario: admin:admin
+usuario: admin pass: admin
 
-pruebas:
-pruebas@a.com usuario: pruebas:pruebas
+usuario demo:
+usuario: pruebas pass: pruebas
